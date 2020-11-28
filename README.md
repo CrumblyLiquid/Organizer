@@ -5,6 +5,7 @@
  - [Python 3.8.6](https://www.python.org/downloads/release/python-386/)
  - [Discord.py](https://github.com/Rapptz/discord.py/)
  - [Discord.py Menus](https://github.com/Rapptz/discord-ext-menus)
+ - For more see [requirements.txt](requirements.txt)
 
 ## Setup
  1. Install Python 3.8.6
