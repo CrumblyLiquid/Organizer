@@ -11,7 +11,7 @@
  2. Clone this repository.
  3. Go to the repository destination and execute `pip install -r requirements.txt`
  4. Rename `config_example.json` to `config.json` and set important variables.
- ```json
+ ```
  {
     "token": "", <- Token here
     "prefix": "", <- Prefix here (Not needed for much | Defaults to `o!`)
